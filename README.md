@@ -13,6 +13,6 @@ _L'activitat s'ha de lliurar en las dos proximas setmanes._
 _Fer una pagina similar a la de cinesa amb estil lliure._
 
 ```
-posar caixes de text 
+GitHub: penjar branques i readme
 ```
 
