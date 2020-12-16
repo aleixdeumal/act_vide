@@ -8,17 +8,11 @@ _L'activitat s'ha de lliurar en las dos proximas setmanes._
 
  **Tickets weebs** es obligatori en la weeb 
 
-### Apunts 📋
+###  📋
 
-_he de crear un carousell al principi de la weeb_
+_Fer una pagina similar a la de cinesa amb estil lliure. _
 
 ```
 posar caixes de text 
 ```
-
-### home 📌
-
-_inicio de sesion_
-
-_venta de tickets_
 
